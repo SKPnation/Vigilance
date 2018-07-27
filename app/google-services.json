@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "958298394465",
+    "firebase_url": "https://vigliance-29.firebaseio.com",
+    "project_id": "vigliance-29",
+    "storage_bucket": "vigliance-29.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958298394465:android:362af33971f69ca3",
+        "android_client_info": {
+          "package_name": "com.example.ayomide.vigilance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958298394465-8fce7ba0uo2jbc6dtj5bfop1a82ik06m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayomide.vigilance",
+            "certificate_hash": "519b5153cc4482c5880f40a9c7c0f2fdea31e140"
+          }
+        },
+        {
+          "client_id": "958298394465-mpgu67igekccnd1o9hvld3n459cmps27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1cHG31PmRnmujRjObmEg0IH3knWoJZxY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958298394465-mpgu67igekccnd1o9hvld3n459cmps27.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
